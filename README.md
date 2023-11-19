@@ -11,3 +11,6 @@ This meant that I could iterate through web pages without resorting to something
 
 I ended up having to do a lot of data cleaning after using the scraper and for the future would attempt to include as much of this process in the scraper pipeline as possible.
 
+# Dataset
+
+The data I recovered was unfortunately filled with blanks as all startups on the site that were updated before 2020 were lacking extra data apart from the name and location of the business. Also some of the startups were no longer active, but were still listed. 
